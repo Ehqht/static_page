@@ -1,4 +1,5 @@
 ---
-title: Small text
+title: test title!
 ---
-This is an example of a blog post with small amount of text.
+
+Hi my name is Sanha ^_^
