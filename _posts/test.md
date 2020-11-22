@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test title!
+title: My title
 ---
 
-Hi My same is SanHa
+Hi My same is SanHaaaaaaaaaaaaa
